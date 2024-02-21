@@ -1,2 +1,2 @@
-# projetos-academicos
+# Projetos Acadêmicos
  Projetos realizados durante o período acadêmico.
